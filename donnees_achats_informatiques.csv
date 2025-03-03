@@ -1,4 +1,4 @@
-Client_ID;Nom;Âge;Produit_Acheté;Montant_Achat;Date_Achat;Méthode_Paiement;Code_Barre;SWIFT;Latitude;Longitude;Ville;Pays
+Client_ID;Nom;Age;Produit;Montant;Date;Paiement;Code_Barre;SWIFT;Latitude;Longitude;Ville;Pays
 08433213;Lavoie, Amélie;23;Clé USB;539.1;25/06/2020;carte_credit;3890838637946;YZFWGB1V;43.86682;-79.2663;Markham;Canada
 09511613;Martine Therrien;150;Clavier Bluetooth;1423.95;03/03/2024;virement_bancaire;7816184959316;VHYJGBFO;46.23899;-63.13414;Charlottetown;Canada
 08752550;Océane Lamoureux ;25;Router Wi-Fi;437.69;14/07/2023;PayPal;1928327648356;HBZKGBZR;46.23899;-63.13414;Charlottetown;Canada
