@@ -1,0 +1,1101 @@
+Transaction ID,Item,Quantity,Payment Method,Location,Transaction Date
+8456812923310,Ice Cream,3,Cash,Takeaway,2015-02-10
+8180256041698,Yogurt,1,Cash,Takeaway,2015-01-16
+1896258993572,Salad,1,Digital Wallet,In-store,2015-03-04
+6143784778995,Water,1,Cash,In-store,2015-08-08
+2248542354870,Milk,3,Digital Wallet,In-store,2015-02-15
+5431675159246,Juice,3,Digital Wallet,Takeaway,2015-05-13
+3994756541276,Tea,2,Digital Wallet,In-store,2015-10-30
+7985617865477,Ice Cream,2,Cash,Takeaway,2015-01-21
+9746826805276,Coffee,3,Cash,Takeaway,2015-07-11
+0958854365335,Water,1,Credit Card,In-store,2015-08-14
+2562376781092,Smoothie,1,Digital Wallet,In-store,2015-07-22
+4956107622224,Cake,1,Digital Wallet,In-store,2015-08-10
+5133583618081,Soda,3,Cash,Takeaway,2015-08-31
+8320182857806,Cake,3,Digital Wallet,In-store,2015-11-17
+0022543148483,Ice Cream,3,Credit Card,Takeaway,2015-09-04
+0706411395420,Ice Cream,3,Credit Card,Takeaway,2015-08-05
+7231706146133,Juice,1,Digital Wallet,In-store,2015-10-17
+6222240302209,Milk,3,Cash,Takeaway,2015-06-29
+6678553713582,Soda,3,Credit Card,Takeaway,2015-02-28
+5828180368971,Smoothie,2,Cash,In-store,2015-09-07
+4492777931803,Coffee,3,Credit Card,In-store,2015-06-25
+5729140440365,Cake,1,Cash,Takeaway,2015-12-25
+4709506179772,Smoothie,2,Cash,Takeaway,2015-04-28
+5029280771504,Yogurt,2,Cash,Takeaway,2015-11-22
+5332005341679,Tea,3,Digital Wallet,In-store,2015-07-19
+0438060055911,Ice Cream,3,Cash,In-store,2015-06-25
+3297009063724,Water,3,Digital Wallet,Takeaway,2015-07-09
+3356824059234,Milk,2,Cash,Takeaway,2015-03-19
+7699855729384,Juice,3,Credit Card,In-store,2015-11-21
+3282903785483,Milk,2,Digital Wallet,Takeaway,2015-05-10
+2971185568686,Coffee,3,Digital Wallet,Takeaway,2015-07-30
+8397128177854,Tea,1,Cash,In-store,2015-06-13
+2395576371363,Cookie,1,Cash,In-store,2015-06-25
+8743638848416,Juice,2,Cash,In-store,2015-01-04
+0120104350433,Ice Cream,1,Credit Card,In-store,2015-10-02
+0664538265623,Ice Cream,1,Digital Wallet,In-store,2015-05-20
+7842139284639,Water,3,Digital Wallet,In-store,2015-08-31
+4185732302991,Tea,3,Cash,Takeaway,2015-02-10
+7123709686702,Tea,1,Cash,In-store,2015-08-20
+1916622050226,Coffee,3,Cash,Takeaway,2015-07-07
+3794398635469,Milk,1,Credit Card,In-store,2015-10-15
+6100572926921,Milk,1,Cash,Takeaway,2015-05-22
+2724746444215,Cookie,1,Digital Wallet,Takeaway,2015-01-11
+5205727272630,Cake,2,Digital Wallet,In-store,2015-10-26
+7859525302617,Water,2,Digital Wallet,Takeaway,2015-04-27
+9772190027433,Cookie,2,Digital Wallet,In-store,2015-08-08
+8588334224627,Yogurt,1,Credit Card,Takeaway,2015-10-16
+0745720318898,Salad,3,Cash,Takeaway,2015-10-20
+4821356598548,Tea,1,Digital Wallet,Takeaway,2015-10-23
+0642322888098,Water,1,Cash,Takeaway,2015-09-03
+7709491279454,Salad,1,Digital Wallet,Takeaway,2015-08-23
+9843257760935,Soda,3,Credit Card,In-store,2015-01-19
+2289527482485,Yogurt,3,Digital Wallet,Takeaway,2015-03-22
+3870232564970,Soda,3,Digital Wallet,Takeaway,2015-10-21
+7011100367842,Yogurt,2,Cash,In-store,2015-06-26
+8479402118026,Sandwich,2,Cash,Takeaway,2015-11-13
+0749479917944,Sandwich,3,Credit Card,Takeaway,2015-04-25
+4611901898816,Cookie,3,Digital Wallet,In-store,2015-07-24
+1274786923351,Cake,3,Digital Wallet,Takeaway,2015-11-05
+4540935688875,Cookie,1,Digital Wallet,Takeaway,2015-10-12
+3516878511304,Juice,2,Credit Card,In-store,2015-09-10
+9676347625797,Milk,3,Credit Card,In-store,2015-01-28
+0324760274656,Tea,2,Digital Wallet,Takeaway,2015-03-07
+3593084298748,Milk,3,Cash,Takeaway,2015-07-21
+0666899921750,Yogurt,2,Credit Card,Takeaway,2015-05-11
+7217127013360,Cookie,1,Cash,Takeaway,2015-12-08
+7746272465699,Sandwich,3,Cash,Takeaway,2015-08-05
+2909774949912,Yogurt,3,Digital Wallet,In-store,2015-12-12
+2767589599186,Soda,2,Digital Wallet,Takeaway,2015-09-12
+0588459353514,Water,1,Digital Wallet,Takeaway,2015-07-19
+4843507770801,Milk,2,Credit Card,In-store,2015-06-15
+7762769764205,Smoothie,3,Credit Card,In-store,2015-03-04
+0333167352331,Tea,3,Digital Wallet,Takeaway,2015-09-16
+6922671701809,Juice,2,Credit Card,In-store,2015-01-20
+0674615876765,Milk,2,Credit Card,In-store,2015-09-26
+6540603131755,Sandwich,1,Digital Wallet,In-store,2015-05-18
+6112672359493,Cookie,3,Credit Card,Takeaway,2015-11-23
+4546213588660,Water,2,Credit Card,Takeaway,2015-11-10
+8885832259022,Yogurt,3,Credit Card,In-store,2015-05-08
+9248827115953,Cake,2,Cash,In-store,2015-10-24
+5657736021219,Tea,1,Cash,Takeaway,2015-02-17
+7014171665572,Water,2,Credit Card,Takeaway,2015-08-07
+1315009968749,Milk,2,Credit Card,Takeaway,2015-06-06
+6496819245895,Cake,1,Credit Card,Takeaway,2015-09-29
+7984245274774,Coffee,3,Digital Wallet,In-store,2015-01-30
+8394934788144,Cookie,2,Credit Card,Takeaway,2015-02-18
+5315889804157,Tea,2,Credit Card,Takeaway,2015-09-07
+5725129853843,Soda,3,Cash,In-store,2015-12-30
+3166213606969,Salad,3,Credit Card,In-store,2015-10-11
+1665440521097,Water,1,Credit Card,Takeaway,2015-12-17
+4728679472978,Tea,3,Digital Wallet,Takeaway,2015-11-05
+2054996725292,Water,1,Cash,Takeaway,2015-04-23
+5683049823240,Yogurt,2,Digital Wallet,In-store,2015-01-03
+5556090045865,Sandwich,1,Credit Card,In-store,2015-07-15
+7921137123338,Milk,2,Cash,Takeaway,2015-02-10
+0571492717689,Cake,1,Digital Wallet,Takeaway,2015-11-10
+4587288899916,Water,3,Digital Wallet,Takeaway,2015-10-12
+8578224561208,Soda,3,Digital Wallet,In-store,2015-03-02
+0199178975002,Ice Cream,3,Cash,In-store,2015-04-18
+3279989870448,Yogurt,3,Credit Card,Takeaway,2015-08-20
+0736234323836,Water,2,Cash,Takeaway,2016-07-18
+9683806639219,Milk,3,Cash,In-store,2016-10-24
+3462812697699,Soda,1,Digital Wallet,In-store,2016-03-29
+9046842238271,Cookie,1,Digital Wallet,Takeaway,2016-11-25
+2381326778452,Cake,1,Cash,In-store,2016-05-01
+6818590698385,Cookie,1,Digital Wallet,Takeaway,2016-02-19
+2613535199262,Salad,1,Cash,Takeaway,2016-03-17
+7850217812001,Smoothie,3,Credit Card,In-store,2016-01-18
+5403556288819,Coffee,1,Digital Wallet,In-store,2016-04-24
+0975415813883,Smoothie,3,Digital Wallet,In-store,2016-08-06
+4819081443660,Juice,2,Digital Wallet,In-store,2016-08-01
+0441513286718,Cake,3,Credit Card,Takeaway,2016-10-02
+8070373099828,Juice,2,Digital Wallet,Takeaway,2016-05-24
+7346907995272,Coffee,1,Credit Card,Takeaway,2016-08-24
+9070324580336,Milk,3,Cash,Takeaway,2016-02-23
+8785414048627,Cookie,3,Digital Wallet,In-store,2016-11-21
+7679173989264,Coffee,1,Credit Card,In-store,2016-08-21
+1923788798756,Milk,2,Cash,In-store,2016-04-14
+0623528063625,Coffee,2,Digital Wallet,Takeaway,2016-02-29
+6930500435573,Cookie,3,Credit Card,In-store,2016-08-27
+0956819398060,Coffee,2,Cash,In-store,2016-02-10
+6118326929302,Juice,3,Digital Wallet,Takeaway,2016-09-16
+7017524611387,Tea,2,Digital Wallet,In-store,2016-07-15
+6361439399184,Soda,2,Cash,Takeaway,2016-08-18
+9199049681620,Cake,3,Digital Wallet,In-store,2016-03-26
+6319582349273,Cookie,2,Cash,In-store,2016-08-02
+6788313749505,Coffee,1,Digital Wallet,Takeaway,2016-12-20
+1316737930053,Cake,3,Credit Card,In-store,2016-08-21
+5747793176370,Soda,2,Digital Wallet,In-store,2016-02-11
+0336517720620,Smoothie,1,Credit Card,In-store,2016-08-31
+9490986330443,Salad,3,Cash,In-store,2016-04-01
+8282800064327,Coffee,1,Credit Card,Takeaway,2016-03-02
+8166387918207,Cookie,2,Credit Card,Takeaway,2016-04-11
+0099408802774,Water,3,Digital Wallet,Takeaway,2016-10-12
+3433565252565,Smoothie,2,Cash,Takeaway,2016-03-18
+3394716761216,Sandwich,3,Cash,In-store,2016-07-02
+0975872362719,Cookie,3,Cash,Takeaway,2016-09-04
+1255905329605,Cookie,2,Credit Card,Takeaway,2016-06-09
+6633257107655,Coffee,3,Cash,In-store,2016-06-07
+3529520619198,Juice,1,Digital Wallet,In-store,2016-07-27
+6553165667976,Salad,3,Credit Card,In-store,2016-12-23
+5455108167097,Cookie,1,Credit Card,Takeaway,2016-06-11
+2945438621770,Salad,3,Cash,In-store,2016-10-17
+7587475188295,Juice,1,Digital Wallet,In-store,2016-09-29
+7136178688924,Sandwich,3,Digital Wallet,In-store,2016-04-04
+4340888786709,Cookie,2,Cash,In-store,2016-01-21
+8919039319293,Tea,1,Cash,Takeaway,2016-08-27
+2646937576287,Yogurt,1,Cash,Takeaway,2016-02-28
+0757977336549,Juice,3,Cash,Takeaway,2016-09-06
+4532556362067,Juice,3,Credit Card,Takeaway,2016-05-25
+5939722534065,Milk,2,Cash,Takeaway,2016-09-24
+4214329892505,Soda,1,Digital Wallet,In-store,2016-03-12
+1429930413503,Soda,3,Credit Card,In-store,2016-07-16
+2228762004953,Cake,2,Cash,In-store,2016-11-13
+2666060043715,Smoothie,1,Digital Wallet,In-store,2016-04-29
+8818131439512,Salad,3,Cash,In-store,2016-09-07
+3916307451285,Cookie,1,Credit Card,Takeaway,2016-09-05
+5963380533771,Soda,1,Digital Wallet,Takeaway,2016-10-21
+2316082029029,Salad,2,Digital Wallet,Takeaway,2016-11-17
+3292769643773,Milk,2,Cash,Takeaway,2016-08-04
+9816459043632,Cookie,1,Credit Card,In-store,2016-11-19
+4942108586931,Salad,3,Credit Card,In-store,2016-08-12
+2744845535744,Milk,3,Cash,In-store,2016-04-11
+2579674272559,Ice Cream,1,Cash,Takeaway,2016-03-18
+8810066798665,Yogurt,3,Cash,Takeaway,2016-03-18
+8197932898736,Water,1,Cash,In-store,2016-12-07
+1566649037399,Coffee,3,Digital Wallet,Takeaway,2016-04-20
+6797709690802,Smoothie,1,Digital Wallet,In-store,2016-04-24
+6514429855171,Cookie,2,Digital Wallet,Takeaway,2016-02-02
+3491961115006,Cookie,2,Cash,In-store,2016-12-15
+0926793947660,Tea,2,Cash,In-store,2016-06-14
+2853929828167,Cookie,3,Cash,In-store,2016-04-09
+0628686233637,Milk,2,Digital Wallet,In-store,2016-11-24
+2912387568951,Salad,1,Credit Card,In-store,2016-02-17
+6486635311461,Salad,1,Cash,Takeaway,2016-09-20
+4644910676663,Salad,2,Credit Card,Takeaway,2016-06-16
+3489376345378,Tea,1,Digital Wallet,Takeaway,2016-10-02
+2453139800887,Cookie,1,Digital Wallet,Takeaway,2016-04-01
+8502460927344,Ice Cream,2,Credit Card,In-store,2016-08-20
+6846317117314,Yogurt,3,Cash,In-store,2016-06-09
+5726389340852,Sandwich,2,Cash,Takeaway,2016-07-26
+1266966506522,Tea,2,Cash,In-store,2016-01-15
+0723475981215,Milk,2,Credit Card,Takeaway,2016-08-13
+9568794855325,Coffee,2,Credit Card,Takeaway,2016-04-22
+8771060621727,Sandwich,3,Cash,In-store,2016-08-14
+2050201653992,Cake,1,Credit Card,Takeaway,2016-02-03
+9085315736258,Coffee,1,Digital Wallet,In-store,2016-10-25
+9669826360869,Tea,3,Cash,In-store,2016-01-18
+6205146666873,Salad,1,Cash,In-store,2016-04-06
+9448458782856,Soda,2,Cash,Takeaway,2016-03-08
+9786529485405,Milk,1,Cash,Takeaway,2016-11-09
+9371510606589,Milk,1,Cash,Takeaway,2016-06-13
+8258443059747,Coffee,1,Digital Wallet,In-store,2016-01-01
+6252076633536,Yogurt,1,Digital Wallet,In-store,2016-01-22
+2951061715519,Smoothie,2,Digital Wallet,Takeaway,2016-04-30
+9822079133721,Milk,1,Cash,Takeaway,2016-04-26
+9282752448304,Sandwich,1,Credit Card,Takeaway,2016-10-06
+2975008991002,Soda,2,Credit Card,Takeaway,2016-10-11
+2099449090527,Ice Cream,3,Digital Wallet,Takeaway,2016-08-25
+2178746728354,Smoothie,3,Cash,In-store,2016-10-13
+5972826701018,Juice,1,Digital Wallet,In-store,2017-10-09
+7042886786473,Juice,1,Digital Wallet,Takeaway,2017-11-21
+9349283616319,Cake,3,Cash,Takeaway,2017-10-13
+8905964011593,Cookie,3,Cash,In-store,2017-02-04
+4728386596684,Coffee,2,Digital Wallet,Takeaway,2017-05-31
+9043740470130,Smoothie,1,Digital Wallet,In-store,2017-01-26
+0494183424973,Cookie,1,Cash,In-store,2017-06-18
+2802616497605,Smoothie,1,Digital Wallet,Takeaway,2017-03-10
+5832392838597,Cake,2,Credit Card,Takeaway,2017-05-13
+4427378807103,Ice Cream,3,Cash,In-store,2017-02-05
+9607340384053,Sandwich,2,Cash,Takeaway,2017-12-10
+4694661943897,Juice,2,Credit Card,In-store,2017-10-11
+4068734076896,Smoothie,2,Cash,In-store,2017-08-13
+4609248226751,Coffee,2,Cash,In-store,2017-03-23
+2914269646092,Milk,1,Cash,Takeaway,2017-06-29
+4235987878960,Cookie,3,Digital Wallet,Takeaway,2017-06-04
+9335712092243,Yogurt,2,Digital Wallet,Takeaway,2017-12-25
+9866745924534,Juice,1,Digital Wallet,In-store,2017-07-19
+7240367431717,Ice Cream,1,Credit Card,Takeaway,2017-11-06
+0573957131610,Water,1,Digital Wallet,In-store,2017-10-15
+7514544676636,Smoothie,1,Credit Card,In-store,2017-02-23
+7107848357549,Yogurt,1,Credit Card,In-store,2017-03-26
+4636432811790,Sandwich,3,Credit Card,In-store,2017-09-12
+0549631002552,Salad,3,Credit Card,In-store,2017-06-27
+1617230639482,Yogurt,3,Credit Card,Takeaway,2017-10-29
+3628784383477,Cake,3,Credit Card,In-store,2017-08-15
+3631261086778,Tea,1,Cash,Takeaway,2017-05-23
+7931904755747,Soda,2,Cash,In-store,2017-11-19
+3546010164082,Yogurt,3,Digital Wallet,In-store,2017-11-04
+8322881721686,Coffee,3,Credit Card,In-store,2017-01-21
+5022120725729,Tea,2,Credit Card,Takeaway,2017-06-28
+3458385218942,Yogurt,1,Credit Card,Takeaway,2017-12-22
+8737820243783,Juice,3,Credit Card,Takeaway,2017-01-21
+8202396393755,Cookie,2,Credit Card,In-store,2017-03-26
+4207980922049,Milk,3,Digital Wallet,Takeaway,2017-12-24
+8982778078240,Milk,3,Credit Card,In-store,2017-09-24
+3074634203592,Cookie,1,Cash,In-store,2017-07-24
+3529595768883,Coffee,3,Credit Card,In-store,2017-06-26
+0611115451245,Coffee,1,Digital Wallet,In-store,2017-07-06
+4315533463700,Smoothie,2,Digital Wallet,In-store,2017-12-13
+5288303530645,Salad,1,Cash,In-store,2017-11-03
+0037028257727,Coffee,2,Digital Wallet,Takeaway,2017-11-24
+1092628320829,Cake,2,Digital Wallet,Takeaway,2017-07-05
+3858953119846,Yogurt,1,Digital Wallet,Takeaway,2017-05-09
+8856867448248,Soda,1,Credit Card,In-store,2017-02-14
+5805824668437,Yogurt,3,Digital Wallet,Takeaway,2017-11-09
+9523344923589,Yogurt,2,Digital Wallet,In-store,2017-12-17
+2586890385994,Juice,3,Cash,Takeaway,2017-11-04
+9800310903661,Juice,2,Credit Card,Takeaway,2017-10-12
+1904364880607,Sandwich,3,Credit Card,In-store,2017-09-14
+7490246935335,Cake,1,Cash,Takeaway,2017-11-11
+6480782233652,Water,3,Cash,Takeaway,2017-04-26
+6221413193569,Cookie,3,Cash,In-store,2017-06-06
+9427288243324,Smoothie,1,Digital Wallet,Takeaway,2017-01-04
+4164100923310,Sandwich,1,Cash,In-store,2017-08-08
+3441838403576,Smoothie,1,Credit Card,Takeaway,2017-02-25
+0433726970676,Smoothie,3,Cash,In-store,2017-03-30
+0210733668983,Tea,2,Credit Card,Takeaway,2017-05-17
+8164989576467,Sandwich,3,Cash,In-store,2017-06-03
+5402937839633,Ice Cream,2,Cash,Takeaway,2017-02-26
+2828385894766,Smoothie,1,Cash,Takeaway,2017-03-04
+9057585091245,Sandwich,2,Credit Card,Takeaway,2017-10-07
+4542463725992,Milk,3,Credit Card,In-store,2017-08-19
+5932543147551,Cake,1,Digital Wallet,Takeaway,2017-02-28
+6130781167518,Tea,1,Cash,Takeaway,2017-08-14
+0944804512331,Water,1,Cash,In-store,2017-04-22
+4455824394815,Juice,1,Cash,Takeaway,2017-10-05
+3362148931606,Sandwich,1,Credit Card,Takeaway,2017-07-12
+2586678727404,Salad,3,Cash,In-store,2017-06-25
+8185565847405,Water,1,Digital Wallet,In-store,2017-07-30
+4982844726406,Milk,3,Credit Card,Takeaway,2017-04-10
+9718571486161,Salad,1,Credit Card,Takeaway,2017-12-06
+6246439065591,Coffee,3,Cash,In-store,2017-05-02
+9693219706125,Salad,3,Credit Card,Takeaway,2017-05-07
+6260338484055,Tea,3,Credit Card,Takeaway,2017-04-24
+8930053521110,Smoothie,1,Digital Wallet,In-store,2017-01-04
+7840515436368,Water,3,Cash,In-store,2017-10-16
+9216979520321,Cookie,3,Digital Wallet,Takeaway,2017-06-01
+2576186297247,Salad,3,Cash,Takeaway,2017-09-29
+4191116593886,Yogurt,3,Credit Card,In-store,2017-12-09
+0430633352496,Cake,2,Cash,In-store,2017-10-19
+7458909505394,Milk,3,Digital Wallet,In-store,2017-06-17
+5533741452845,Cookie,3,Cash,Takeaway,2017-01-16
+5734875623440,Coffee,1,Credit Card,Takeaway,2017-04-29
+0339068171774,Sandwich,1,Digital Wallet,Takeaway,2017-10-09
+6242382706048,Soda,1,Credit Card,In-store,2017-09-23
+1789450166274,Ice Cream,3,Cash,In-store,2017-07-12
+4970638802733,Cake,2,Digital Wallet,Takeaway,2017-02-13
+6592687917060,Soda,2,Credit Card,In-store,2017-08-25
+6739250985822,Milk,2,Cash,Takeaway,2017-08-11
+1753061743810,Juice,1,Cash,In-store,2017-10-05
+9946882897448,Juice,2,Cash,Takeaway,2017-03-03
+9063360989225,Milk,1,Credit Card,In-store,2017-01-11
+8090515247009,Cookie,1,Digital Wallet,In-store,2017-08-06
+1867271967994,Yogurt,1,Credit Card,Takeaway,2017-03-15
+6297142425301,Water,1,Digital Wallet,Takeaway,2017-10-17
+1001136582766,Sandwich,3,Digital Wallet,In-store,2017-06-11
+2898888847439,Sandwich,2,Cash,Takeaway,2017-06-23
+7735732930563,Salad,3,Credit Card,Takeaway,2017-06-04
+9417926398837,Water,1,Digital Wallet,Takeaway,2017-02-25
+0759161692851,Milk,1,Digital Wallet,In-store,2018-01-15
+6676896023658,Cookie,2,Credit Card,In-store,2018-01-23
+2980391075284,Salad,3,Cash,In-store,2018-12-04
+9201434663026,Sandwich,1,Cash,In-store,2018-05-27
+6897667513493,Soda,1,Digital Wallet,In-store,2018-11-16
+2087107226470,Ice Cream,3,Credit Card,In-store,2018-03-07
+7048518018523,Ice Cream,2,Credit Card,In-store,2018-11-17
+1003871737791,Cake,1,Cash,Takeaway,2018-05-14
+4222739382264,Sandwich,1,Credit Card,In-store,2018-07-17
+4505806345462,Coffee,3,Digital Wallet,Takeaway,2018-06-28
+4557349008175,Salad,3,Credit Card,In-store,2018-08-11
+9898892401088,Coffee,1,Credit Card,In-store,2018-10-03
+3494801287628,Milk,3,Digital Wallet,In-store,2018-01-20
+0792160009213,Smoothie,1,Cash,In-store,2018-07-20
+4780193187837,Milk,1,Cash,In-store,2018-05-08
+6245244370739,Ice Cream,2,Cash,Takeaway,2018-03-11
+6083672130163,Yogurt,1,Cash,Takeaway,2018-07-22
+8375654285861,Coffee,1,Digital Wallet,Takeaway,2018-10-17
+7871089522089,Salad,2,Cash,Takeaway,2018-04-07
+0042992952158,Yogurt,2,Digital Wallet,In-store,2018-11-10
+5601422718624,Cookie,3,Digital Wallet,In-store,2018-09-07
+1608410195652,Juice,3,Credit Card,In-store,2018-09-19
+8820542134481,Sandwich,3,Cash,Takeaway,2018-07-11
+5992551328052,Ice Cream,2,Credit Card,Takeaway,2018-01-30
+0011286451639,Coffee,3,Cash,In-store,2018-04-18
+9013692306856,Tea,1,Digital Wallet,Takeaway,2018-03-13
+4247103304345,Juice,1,Cash,Takeaway,2018-11-26
+3104488322825,Milk,1,Cash,In-store,2018-08-26
+5431071980178,Sandwich,1,Credit Card,Takeaway,2018-01-24
+3495749432873,Ice Cream,3,Credit Card,Takeaway,2018-12-04
+1825843477883,Juice,1,Cash,In-store,2018-12-02
+2985287293605,Sandwich,3,Credit Card,Takeaway,2018-09-02
+1124435316204,Yogurt,2,Credit Card,Takeaway,2018-01-19
+5135114393719,Cake,1,Credit Card,Takeaway,2018-10-18
+3326428695350,Sandwich,2,Digital Wallet,In-store,2018-02-24
+5073304054203,Soda,2,Credit Card,In-store,2018-05-02
+0148203010638,Milk,3,Credit Card,Takeaway,2018-06-03
+8504957863173,Coffee,1,Credit Card,In-store,2018-11-06
+3636724720473,Coffee,2,Digital Wallet,In-store,2018-04-18
+8091450770751,Ice Cream,1,Digital Wallet,In-store,2018-05-06
+4862248765419,Coffee,2,Cash,Takeaway,2018-12-10
+8378085702822,Ice Cream,3,Credit Card,Takeaway,2018-05-05
+4515053599563,Salad,1,Digital Wallet,In-store,2018-10-02
+2026166042775,Sandwich,3,Credit Card,Takeaway,2018-10-18
+3101003305196,Ice Cream,3,Credit Card,Takeaway,2018-01-02
+8158457152956,Ice Cream,1,Cash,In-store,2018-01-18
+5415054749105,Cake,3,Digital Wallet,Takeaway,2018-05-08
+7912011174485,Juice,3,Credit Card,Takeaway,2018-12-17
+8926453695698,Salad,3,Credit Card,In-store,2018-10-26
+8463774720352,Yogurt,2,Cash,In-store,2018-01-01
+8440095167400,Sandwich,2,Cash,Takeaway,2018-09-23
+2530335686399,Cake,3,Digital Wallet,Takeaway,2018-02-10
+8146746958945,Juice,1,Cash,In-store,2018-08-24
+2801300070179,Milk,1,Cash,In-store,2018-11-14
+7894422448402,Smoothie,1,Credit Card,In-store,2018-08-27
+1441798864426,Sandwich,1,Digital Wallet,In-store,2018-01-06
+8185255876241,Cookie,3,Cash,In-store,2018-09-15
+2519211993028,Coffee,2,Cash,Takeaway,2018-06-04
+0437795063116,Water,3,Credit Card,Takeaway,2018-04-13
+8140367024577,Cookie,3,Cash,Takeaway,2018-11-02
+2325625950867,Ice Cream,2,Credit Card,In-store,2018-06-01
+4206890686058,Cake,2,Cash,Takeaway,2018-09-28
+7058126856400,Milk,3,Cash,In-store,2018-03-01
+3045963228419,Yogurt,3,Credit Card,Takeaway,2018-08-06
+6924445372468,Cookie,3,Credit Card,In-store,2018-12-13
+8024022399494,Ice Cream,3,Cash,In-store,2018-01-11
+4953606899263,Ice Cream,3,Cash,In-store,2018-12-13
+0374036261101,Milk,2,Cash,Takeaway,2018-10-04
+3527961784338,Sandwich,1,Cash,Takeaway,2018-10-21
+5243557994407,Juice,3,Credit Card,In-store,2018-01-08
+7179864503743,Soda,3,Cash,In-store,2018-05-20
+6465147664159,Juice,1,Credit Card,In-store,2018-03-05
+1113686570992,Salad,2,Digital Wallet,Takeaway,2018-05-18
+9382802566757,Sandwich,2,Cash,In-store,2018-03-10
+6586659427909,Cookie,3,Credit Card,Takeaway,2018-10-27
+0654821145824,Tea,1,Credit Card,Takeaway,2018-01-30
+2394548237133,Coffee,3,Digital Wallet,Takeaway,2018-06-24
+3700314010074,Soda,2,Cash,In-store,2018-09-02
+8455463166473,Yogurt,3,Digital Wallet,Takeaway,2018-10-23
+6293200551760,Soda,2,Cash,Takeaway,2018-03-30
+1814104285411,Soda,1,Digital Wallet,Takeaway,2018-02-27
+6288610302095,Coffee,1,Credit Card,Takeaway,2018-02-08
+4715584872405,Sandwich,1,Credit Card,Takeaway,2018-07-22
+8088196439332,Smoothie,1,Digital Wallet,In-store,2018-11-02
+5064133069063,Salad,1,Cash,Takeaway,2018-11-03
+7100969510749,Cake,2,Credit Card,In-store,2018-09-19
+5442516634433,Juice,1,Digital Wallet,Takeaway,2018-08-12
+6337749038389,Yogurt,2,Cash,In-store,2018-01-04
+8109944142905,Tea,3,Digital Wallet,Takeaway,2018-02-18
+2798028716673,Soda,1,Credit Card,Takeaway,2018-07-13
+0628068948906,Soda,3,Cash,In-store,2018-07-21
+8945407184866,Juice,2,Credit Card,In-store,2018-02-28
+0478312901993,Tea,1,Credit Card,Takeaway,2018-07-15
+6408129490636,Soda,1,Digital Wallet,In-store,2018-09-10
+9325277016433,Salad,2,Credit Card,In-store,2018-01-19
+7795488850119,Cookie,1,Credit Card,In-store,2018-02-07
+8373344078540,Smoothie,1,Cash,In-store,2018-10-09
+3167380820363,Cookie,1,Credit Card,In-store,2018-02-15
+6923052852462,Yogurt,2,Cash,In-store,2018-04-26
+3540515093687,Milk,1,Cash,In-store,2018-10-25
+9252565863250,Yogurt,1,Digital Wallet,In-store,2019-05-12
+1335144661534,Ice Cream,3,Cash,In-store,2019-07-26
+4421793841728,Smoothie,1,Cash,Takeaway,2019-10-28
+8412349415575,Milk,3,Credit Card,Takeaway,2019-08-13
+6196613976246,Soda,1,Digital Wallet,In-store,2019-10-08
+2223120388034,Coffee,1,Cash,In-store,2019-09-26
+7837763279298,Coffee,3,Digital Wallet,In-store,2019-07-06
+1858886553306,Sandwich,2,Cash,Takeaway,2019-09-16
+9196197986324,Cake,3,Cash,Takeaway,2019-11-24
+4013095494346,Coffee,2,Credit Card,Takeaway,2019-03-01
+6318854112447,Soda,2,Digital Wallet,In-store,2019-08-03
+2653612617784,Soda,1,Cash,In-store,2019-01-16
+8780268853816,Salad,1,Cash,Takeaway,2019-11-20
+4400804749642,Sandwich,2,Digital Wallet,Takeaway,2019-01-12
+0041043878928,Tea,2,Credit Card,Takeaway,2019-04-14
+5867422111586,Tea,3,Credit Card,In-store,2019-01-01
+6668351900604,Cookie,1,Credit Card,In-store,2019-10-16
+6713981982084,Coffee,1,Digital Wallet,In-store,2019-04-24
+7986696903845,Cake,2,Cash,Takeaway,2019-12-19
+5297860158155,Cookie,1,Digital Wallet,In-store,2019-06-03
+6179665763958,Milk,2,Credit Card,Takeaway,2019-03-13
+8910881886636,Salad,3,Cash,Takeaway,2019-07-20
+0592656035111,Yogurt,2,Cash,Takeaway,2019-01-24
+1359610572964,Tea,3,Credit Card,Takeaway,2019-04-03
+1006885961848,Sandwich,3,Digital Wallet,Takeaway,2019-10-13
+1147915895624,Sandwich,2,Digital Wallet,Takeaway,2019-02-02
+1351204420866,Salad,3,Cash,Takeaway,2019-05-28
+7615794848498,Milk,3,Cash,Takeaway,2019-01-05
+3759907320205,Juice,1,Cash,In-store,2019-02-08
+8828712051910,Soda,2,Cash,In-store,2019-04-19
+0969474293847,Tea,3,Credit Card,Takeaway,2019-06-12
+1932245571719,Cake,2,Cash,In-store,2019-11-24
+9109633006913,Smoothie,3,Credit Card,In-store,2019-07-27
+0915075910218,Milk,1,Cash,Takeaway,2019-10-14
+2449477960192,Juice,1,Credit Card,In-store,2019-05-02
+8182101121500,Smoothie,1,Credit Card,In-store,2019-01-20
+7206585249398,Cookie,3,Credit Card,In-store,2019-11-17
+8131738024685,Cake,3,Cash,In-store,2019-04-17
+6983585116257,Juice,1,Credit Card,In-store,2019-01-15
+2328672513856,Water,2,Cash,In-store,2019-07-04
+7053197836429,Water,1,Digital Wallet,Takeaway,2019-02-04
+2025269103673,Smoothie,2,Cash,Takeaway,2019-10-09
+3332007211057,Smoothie,1,Cash,Takeaway,2019-01-29
+6968473579642,Cake,3,Cash,Takeaway,2019-01-16
+4002025882148,Yogurt,3,Digital Wallet,Takeaway,2019-01-27
+0439194868620,Yogurt,3,Credit Card,Takeaway,2019-04-06
+7442315303262,Tea,2,Credit Card,Takeaway,2019-05-17
+0044923076742,Milk,2,Digital Wallet,In-store,2019-02-09
+8264862897877,Cake,1,Credit Card,Takeaway,2019-03-24
+4431780233986,Yogurt,3,Cash,In-store,2019-10-22
+8851812598498,Water,1,Cash,In-store,2019-07-21
+1576844006335,Cookie,2,Digital Wallet,Takeaway,2019-10-28
+9148175256264,Sandwich,3,Digital Wallet,In-store,2019-08-23
+1554073089770,Water,3,Cash,In-store,2019-07-13
+0206006719001,Sandwich,2,Digital Wallet,In-store,2019-03-05
+6092478468769,Milk,3,Credit Card,Takeaway,2019-04-16
+9079570202467,Milk,1,Credit Card,Takeaway,2019-06-28
+8071248881456,Milk,2,Digital Wallet,Takeaway,2019-10-26
+9406886333651,Juice,1,Credit Card,In-store,2019-02-19
+5922241584086,Tea,2,Digital Wallet,In-store,2019-07-31
+5151894732623,Yogurt,1,Digital Wallet,In-store,2019-11-03
+1481803843916,Tea,1,Digital Wallet,In-store,2019-01-27
+1837673395534,Juice,2,Digital Wallet,In-store,2019-08-13
+3973651856425,Ice Cream,3,Digital Wallet,In-store,2019-01-05
+8057795941812,Cake,2,Cash,Takeaway,2019-10-01
+9472454561009,Sandwich,2,Cash,In-store,2019-09-02
+7361689873242,Salad,2,Digital Wallet,Takeaway,2019-01-20
+6863194981531,Yogurt,3,Credit Card,Takeaway,2019-09-11
+2843102002194,Cake,2,Digital Wallet,Takeaway,2019-05-19
+2269999246853,Salad,2,Cash,In-store,2019-05-13
+6900729128143,Coffee,3,Digital Wallet,In-store,2019-12-27
+4015998178873,Coffee,3,Digital Wallet,Takeaway,2019-03-28
+5768917780136,Coffee,2,Cash,Takeaway,2019-11-30
+1311744275500,Sandwich,2,Cash,In-store,2019-01-27
+3996461108843,Salad,2,Digital Wallet,Takeaway,2019-08-07
+5668583493890,Smoothie,3,Cash,Takeaway,2019-05-05
+1653755821476,Coffee,3,Credit Card,In-store,2019-11-13
+5196876511162,Cake,2,Credit Card,Takeaway,2019-10-21
+4241877538920,Yogurt,2,Digital Wallet,Takeaway,2019-05-17
+5480531003131,Coffee,1,Digital Wallet,In-store,2019-09-29
+2413409866104,Water,3,Digital Wallet,In-store,2019-05-17
+0883230231327,Juice,1,Cash,Takeaway,2019-07-29
+4445299919934,Milk,3,Digital Wallet,Takeaway,2019-12-18
+0996027844836,Coffee,1,Digital Wallet,In-store,2019-04-09
+3442039473313,Juice,1,Cash,Takeaway,2019-11-09
+0949676745603,Coffee,1,Credit Card,Takeaway,2019-09-04
+3037808195833,Salad,2,Credit Card,Takeaway,2019-12-26
+6229750382707,Cake,3,Digital Wallet,Takeaway,2019-01-02
+1352945780240,Cake,2,Credit Card,Takeaway,2019-04-23
+7364053756561,Cookie,2,Cash,Takeaway,2019-11-10
+9653559744768,Cake,2,Credit Card,In-store,2019-12-09
+6924290487409,Milk,2,Credit Card,Takeaway,2019-12-14
+5736436312947,Cake,2,Digital Wallet,Takeaway,2019-08-28
+5727817673672,Coffee,2,Cash,Takeaway,2019-06-20
+2471073296986,Milk,1,Credit Card,In-store,2019-09-19
+3132227879668,Cookie,1,Digital Wallet,Takeaway,2019-03-02
+9249257090919,Coffee,1,Cash,In-store,2019-11-01
+3171804945488,Tea,2,Credit Card,Takeaway,2019-09-11
+0082496229622,Ice Cream,2,Credit Card,Takeaway,2019-12-06
+7374387475328,Soda,1,Cash,In-store,2019-02-05
+7769230788609,Sandwich,3,Credit Card,Takeaway,2020-03-03
+0587961793344,Coffee,1,Digital Wallet,In-store,2020-08-19
+8787217794541,Juice,3,Digital Wallet,Takeaway,2020-09-08
+4284082614904,Ice Cream,2,Digital Wallet,Takeaway,2020-05-06
+6642313348826,Salad,2,Credit Card,Takeaway,2020-12-23
+9008451038871,Cookie,1,Cash,In-store,2020-02-24
+5984578016449,Water,2,Digital Wallet,In-store,2020-07-07
+1068953806901,Water,2,Credit Card,Takeaway,2020-03-22
+4365938834582,Juice,1,Digital Wallet,Takeaway,2020-09-15
+8941928996360,Soda,1,Credit Card,In-store,2020-05-22
+9727230584100,Salad,1,Digital Wallet,In-store,2020-08-25
+1373493407885,Cake,1,Credit Card,Takeaway,2020-08-24
+2450524098188,Cake,2,Digital Wallet,In-store,2020-07-25
+9026496240318,Salad,3,Credit Card,In-store,2020-06-19
+7689405253216,Sandwich,1,Cash,Takeaway,2020-12-19
+5264097644775,Juice,1,Cash,In-store,2020-07-02
+5492347378181,Soda,2,Credit Card,Takeaway,2020-07-13
+3169533965105,Cookie,3,Digital Wallet,Takeaway,2020-04-29
+3506436166541,Cookie,1,Credit Card,Takeaway,2020-03-08
+5988650143795,Water,1,Credit Card,Takeaway,2020-10-07
+2470623133153,Soda,2,Cash,In-store,2020-08-05
+1557939704831,Water,2,Digital Wallet,Takeaway,2020-04-11
+6643551149022,Tea,1,Credit Card,Takeaway,2020-08-03
+8448997422351,Coffee,3,Cash,Takeaway,2020-03-28
+2451860621436,Cake,3,Credit Card,In-store,2020-03-30
+8165564115866,Cake,2,Credit Card,Takeaway,2020-04-04
+9624227862930,Cookie,3,Cash,Takeaway,2020-04-11
+2944394853409,Juice,3,Digital Wallet,Takeaway,2020-07-27
+3047954576448,Cookie,2,Digital Wallet,In-store,2020-08-21
+5863655876513,Coffee,1,Cash,In-store,2020-11-02
+0750969265452,Cake,1,Digital Wallet,Takeaway,2020-12-09
+0929158657129,Milk,2,Credit Card,In-store,2020-09-11
+9398951657031,Yogurt,1,Digital Wallet,Takeaway,2020-05-02
+0717891320567,Tea,3,Credit Card,In-store,2020-04-01
+4080232973699,Cookie,3,Cash,In-store,2020-11-10
+7441367741480,Ice Cream,3,Digital Wallet,In-store,2020-05-13
+9839377696223,Soda,2,Digital Wallet,Takeaway,2020-12-17
+4024891208648,Sandwich,3,Cash,Takeaway,2020-06-26
+0325620294777,Salad,3,Digital Wallet,Takeaway,2020-11-21
+9790961548437,Coffee,3,Cash,In-store,2020-02-04
+1746663783452,Coffee,3,Cash,Takeaway,2020-05-19
+3453466088926,Cookie,3,Digital Wallet,Takeaway,2020-05-20
+4067727539738,Ice Cream,1,Digital Wallet,Takeaway,2020-05-11
+4529275080075,Soda,3,Digital Wallet,In-store,2020-02-02
+6974450614152,Smoothie,2,Credit Card,Takeaway,2020-06-19
+9771763567598,Salad,1,Credit Card,Takeaway,2020-12-12
+9882224640443,Smoothie,2,Credit Card,In-store,2020-08-15
+1630001586426,Salad,2,Credit Card,Takeaway,2020-12-08
+6741995561889,Juice,1,Digital Wallet,In-store,2020-02-09
+2002568645912,Coffee,2,Cash,Takeaway,2020-07-31
+7767286026577,Smoothie,1,Cash,Takeaway,2020-04-29
+4148600950854,Smoothie,1,Cash,In-store,2020-11-17
+5166955685763,Cookie,2,Digital Wallet,Takeaway,2020-02-05
+8230442578160,Cake,3,Digital Wallet,In-store,2020-07-17
+4452486181845,Water,2,Credit Card,In-store,2020-01-06
+8624851349549,Coffee,1,Cash,Takeaway,2020-01-05
+0359542371759,Cake,3,Digital Wallet,Takeaway,2020-02-22
+2124696890344,Sandwich,2,Digital Wallet,Takeaway,2020-01-18
+9074804410342,Cookie,3,Cash,In-store,2020-07-10
+0506955089782,Water,2,Credit Card,Takeaway,2020-05-06
+3455088404818,Tea,1,Credit Card,Takeaway,2020-11-14
+0395276927039,Milk,1,Cash,Takeaway,2020-03-26
+7475361258835,Yogurt,1,Digital Wallet,In-store,2020-02-26
+8684069161548,Soda,1,Digital Wallet,In-store,2020-12-03
+5231873747708,Juice,1,Cash,In-store,2020-05-21
+4500416274317,Sandwich,2,Cash,In-store,2020-04-04
+3130180639459,Soda,1,Cash,Takeaway,2020-09-03
+3663848407515,Tea,3,Cash,Takeaway,2020-01-07
+9131278676626,Sandwich,3,Cash,Takeaway,2020-08-31
+7538829699448,Milk,2,Digital Wallet,Takeaway,2020-07-30
+4341033523354,Tea,1,Cash,Takeaway,2020-06-07
+9517034200456,Cake,3,Credit Card,Takeaway,2020-04-14
+1177661728709,Tea,3,Credit Card,Takeaway,2020-08-06
+1799347799515,Juice,2,Cash,Takeaway,2020-09-09
+9898911954946,Smoothie,3,Credit Card,In-store,2020-12-23
+5116562287959,Yogurt,2,Cash,In-store,2020-08-24
+2626709985912,Coffee,2,Digital Wallet,Takeaway,2020-07-03
+2346872716563,Water,1,Digital Wallet,Takeaway,2020-09-07
+9715763487647,Cake,3,Digital Wallet,In-store,2020-04-29
+0619286381088,Salad,2,Cash,Takeaway,2020-08-04
+0313146796530,Water,2,Digital Wallet,In-store,2020-02-23
+5787134327191,Ice Cream,3,Digital Wallet,In-store,2020-05-22
+1336106600080,Milk,1,Credit Card,In-store,2020-09-05
+7787053604197,Soda,1,Credit Card,In-store,2020-02-09
+3275387525157,Smoothie,2,Credit Card,In-store,2020-10-28
+9228029100988,Soda,2,Cash,Takeaway,2020-01-14
+7654304506459,Water,2,Digital Wallet,In-store,2020-11-12
+5354383112139,Yogurt,1,Cash,In-store,2020-03-19
+3765367320341,Tea,1,Digital Wallet,In-store,2020-01-13
+0756489933345,Smoothie,2,Credit Card,In-store,2020-05-13
+0959010724317,Tea,2,Credit Card,Takeaway,2020-05-17
+0103421573372,Juice,2,Credit Card,Takeaway,2020-03-21
+2456332755510,Water,3,Credit Card,Takeaway,2020-08-15
+2095465423486,Juice,1,Cash,Takeaway,2020-01-29
+3852406548061,Milk,3,Cash,Takeaway,2020-03-08
+4471605340178,Ice Cream,2,Credit Card,In-store,2020-08-13
+3918497177174,Yogurt,3,Credit Card,Takeaway,2020-08-21
+3274351148606,Juice,1,Cash,In-store,2020-06-02
+9563185303973,Milk,3,Credit Card,Takeaway,2020-06-24
+1319361236454,Coffee,1,Cash,Takeaway,2020-04-03
+6623775374523,Cake,1,Digital Wallet,In-store,2021-04-28
+4594117315066,Smoothie,1,Digital Wallet,In-store,2021-11-19
+1859860647981,Water,1,Digital Wallet,Takeaway,2021-07-22
+2142389277593,Cookie,2,Credit Card,Takeaway,2021-09-13
+8903253008262,Soda,2,Cash,In-store,2021-08-12
+1437288195781,Juice,2,Digital Wallet,In-store,2021-11-09
+4096293998922,Coffee,1,Cash,In-store,2021-09-13
+7171297589301,Tea,1,Cash,In-store,2021-12-24
+7458158631981,Cookie,2,Cash,In-store,2021-10-06
+0323997729335,Water,1,Cash,Takeaway,2021-02-02
+5248187913736,Ice Cream,3,Credit Card,In-store,2021-06-29
+6817214224504,Smoothie,1,Cash,Takeaway,2021-06-21
+0070745566659,Soda,2,Credit Card,In-store,2021-01-02
+5939125014218,Cake,3,Cash,Takeaway,2021-12-04
+1058290151215,Smoothie,3,Digital Wallet,Takeaway,2021-01-13
+0152681126699,Milk,2,Credit Card,In-store,2021-12-11
+8859504931394,Juice,1,Cash,In-store,2021-03-19
+0295945114190,Coffee,3,Cash,Takeaway,2021-11-19
+3736561053410,Soda,2,Cash,Takeaway,2021-07-24
+5333214090457,Juice,1,Cash,Takeaway,2021-02-28
+1239773903044,Sandwich,1,Digital Wallet,In-store,2021-05-20
+2564894259398,Tea,1,Cash,In-store,2021-12-08
+4666387964944,Cookie,3,Credit Card,In-store,2021-11-07
+2307259782953,Salad,1,Digital Wallet,In-store,2021-04-19
+3345846826436,Tea,2,Digital Wallet,Takeaway,2021-05-09
+6081718770458,Cake,3,Credit Card,Takeaway,2021-02-04
+4607981473487,Juice,1,Digital Wallet,In-store,2021-05-06
+3747836012650,Smoothie,3,Cash,In-store,2021-04-06
+1714678047036,Juice,1,Cash,In-store,2021-04-11
+2664186093850,Cookie,3,Credit Card,Takeaway,2021-04-03
+3651496556792,Smoothie,3,Credit Card,Takeaway,2021-12-02
+1748799142387,Smoothie,3,Credit Card,In-store,2021-12-01
+4902616918655,Milk,3,Credit Card,In-store,2021-01-11
+1286530785740,Sandwich,3,Credit Card,In-store,2021-04-06
+5097870843498,Sandwich,3,Cash,Takeaway,2021-03-18
+6448097093958,Cookie,2,Credit Card,In-store,2021-01-25
+9998845529408,Soda,2,Cash,Takeaway,2021-04-01
+4099638636381,Yogurt,2,Cash,Takeaway,2021-03-14
+6383796917511,Sandwich,3,Cash,Takeaway,2021-12-12
+2219561515849,Cookie,3,Digital Wallet,Takeaway,2021-12-22
+3425051557605,Sandwich,3,Credit Card,In-store,2021-08-04
+1073362287005,Yogurt,2,Cash,In-store,2021-10-25
+4263662851854,Juice,3,Digital Wallet,Takeaway,2021-10-02
+4628624381150,Soda,1,Cash,In-store,2021-08-02
+3648543780255,Salad,3,Cash,Takeaway,2021-06-08
+8262555612813,Yogurt,1,Cash,In-store,2021-01-11
+5165821453543,Soda,3,Digital Wallet,In-store,2021-04-22
+5694931498705,Water,3,Credit Card,In-store,2021-02-13
+6227609514415,Smoothie,2,Digital Wallet,Takeaway,2021-02-26
+8051637012821,Smoothie,1,Digital Wallet,In-store,2021-04-09
+8127133984532,Ice Cream,3,Cash,Takeaway,2021-07-31
+3979415481216,Sandwich,1,Cash,Takeaway,2021-07-27
+2622042206295,Tea,2,Digital Wallet,In-store,2021-07-26
+7133107683173,Smoothie,1,Credit Card,In-store,2021-05-11
+7293104639891,Soda,2,Digital Wallet,Takeaway,2021-03-08
+0005385663123,Milk,1,Digital Wallet,In-store,2021-12-12
+8689416707158,Smoothie,2,Cash,In-store,2021-03-13
+9701642331248,Coffee,2,Cash,In-store,2021-08-19
+3208079222539,Yogurt,2,Credit Card,In-store,2021-02-17
+0041599352071,Cake,2,Credit Card,Takeaway,2021-08-01
+8113939238467,Soda,2,Digital Wallet,In-store,2021-08-28
+1201407031089,Sandwich,3,Credit Card,In-store,2021-06-29
+0893909392976,Smoothie,3,Cash,Takeaway,2021-06-14
+9100895224589,Sandwich,2,Credit Card,Takeaway,2021-09-10
+7579237799092,Cake,2,Digital Wallet,Takeaway,2021-05-03
+1371301804949,Soda,1,Credit Card,In-store,2021-08-17
+2967414026645,Smoothie,1,Cash,Takeaway,2021-09-17
+1932318119121,Ice Cream,3,Credit Card,Takeaway,2021-05-21
+3715965892122,Yogurt,2,Credit Card,Takeaway,2021-03-12
+9806794146686,Water,3,Digital Wallet,Takeaway,2021-03-12
+6488249306703,Salad,3,Credit Card,Takeaway,2021-03-13
+2923193549966,Cookie,3,Cash,Takeaway,2021-05-04
+3146552291538,Salad,1,Digital Wallet,In-store,2021-01-31
+2624480976914,Juice,1,Cash,Takeaway,2021-02-01
+5577954389000,Cake,3,Cash,In-store,2021-10-08
+4874954548941,Soda,1,Credit Card,Takeaway,2021-05-20
+1351955873775,Smoothie,2,Digital Wallet,In-store,2021-09-07
+4425591690618,Cookie,2,Cash,Takeaway,2021-05-12
+0437675450623,Ice Cream,3,Cash,Takeaway,2021-11-22
+8058935436540,Tea,2,Credit Card,Takeaway,2021-07-12
+2309333883174,Sandwich,3,Cash,Takeaway,2021-11-13
+7435774420755,Cookie,1,Credit Card,Takeaway,2021-05-17
+9852072640124,Cookie,3,Credit Card,In-store,2021-03-26
+5606417104352,Coffee,2,Digital Wallet,In-store,2021-11-06
+7547013160084,Tea,3,Cash,In-store,2021-04-21
+9017420952339,Cookie,3,Credit Card,Takeaway,2021-10-21
+4502571624273,Soda,1,Credit Card,Takeaway,2021-10-12
+3572132974131,Cookie,1,Credit Card,In-store,2021-07-21
+1922382853038,Coffee,1,Digital Wallet,Takeaway,2021-09-20
+8963264067795,Coffee,1,Digital Wallet,Takeaway,2021-02-21
+2465355128683,Smoothie,3,Credit Card,In-store,2021-10-05
+1623900270886,Ice Cream,1,Digital Wallet,In-store,2021-07-13
+7879192514526,Soda,3,Cash,Takeaway,2021-05-14
+4148254931018,Sandwich,1,Cash,In-store,2021-05-13
+6047740384049,Coffee,1,Cash,Takeaway,2021-09-28
+3805592758806,Coffee,3,Credit Card,Takeaway,2021-05-11
+2556920518876,Juice,3,Credit Card,Takeaway,2021-02-20
+3701265271668,Yogurt,1,Digital Wallet,In-store,2021-09-17
+8330387409885,Sandwich,1,Credit Card,In-store,2021-09-07
+7517542530801,Salad,1,Digital Wallet,Takeaway,2021-09-13
+3170408026807,Cake,1,Credit Card,Takeaway,2022-07-01
+2384749394674,Milk,2,Credit Card,Takeaway,2022-09-11
+5702404307444,Salad,2,Credit Card,Takeaway,2022-09-03
+5249765781334,Yogurt,3,Credit Card,Takeaway,2022-03-06
+4637675964670,Cake,2,Credit Card,Takeaway,2022-05-28
+7742047662485,Salad,1,Cash,Takeaway,2022-03-26
+3888411022227,Yogurt,3,Cash,Takeaway,2022-05-01
+6905162769373,Tea,3,Digital Wallet,Takeaway,2022-12-24
+3953238085929,Soda,2,Digital Wallet,In-store,2022-02-27
+4912609566954,Cake,2,Credit Card,In-store,2022-08-07
+4008572399733,Ice Cream,2,Credit Card,In-store,2022-03-23
+8838835793567,Tea,1,Cash,Takeaway,2022-08-05
+0379546832032,Tea,2,Credit Card,In-store,2022-08-28
+5272342074376,Tea,1,Digital Wallet,In-store,2022-06-07
+6521553691636,Sandwich,2,Cash,In-store,2022-10-30
+7362209773271,Smoothie,3,Credit Card,In-store,2022-01-06
+5493457065060,Soda,3,Cash,In-store,2022-07-29
+9200142382175,Milk,2,Cash,Takeaway,2022-05-24
+2844268108430,Soda,3,Digital Wallet,Takeaway,2022-04-30
+7836870677065,Salad,1,Cash,In-store,2022-11-09
+8988160645243,Tea,2,Cash,In-store,2022-12-30
+4453468045964,Cake,2,Credit Card,Takeaway,2022-02-12
+2035291085298,Soda,3,Credit Card,In-store,2022-07-05
+6095203465811,Cookie,1,Digital Wallet,In-store,2022-02-10
+6312818214079,Coffee,1,Cash,In-store,2022-11-20
+1984693789703,Juice,3,Credit Card,Takeaway,2022-04-06
+4800631935568,Ice Cream,2,Digital Wallet,Takeaway,2022-04-23
+2028790502922,Soda,3,Credit Card,Takeaway,2022-11-28
+7445568782303,Juice,3,Credit Card,In-store,2022-08-03
+2629984974121,Water,3,Credit Card,In-store,2022-01-13
+1989112054769,Soda,2,Digital Wallet,Takeaway,2022-05-14
+0223364345314,Water,2,Cash,Takeaway,2022-05-07
+1209469158300,Water,3,Digital Wallet,In-store,2022-10-27
+7469923563086,Water,1,Cash,In-store,2022-06-05
+3003408205470,Soda,1,Digital Wallet,In-store,2022-04-19
+4547372248464,Coffee,2,Credit Card,Takeaway,2022-12-16
+5985621355904,Ice Cream,3,Credit Card,In-store,2022-07-09
+6892302001182,Smoothie,1,Credit Card,Takeaway,2022-06-15
+6163207825853,Yogurt,2,Digital Wallet,In-store,2022-05-14
+4760841222752,Water,2,Digital Wallet,Takeaway,2022-01-16
+1746850500664,Juice,1,Credit Card,Takeaway,2022-10-16
+3032711145425,Juice,3,Credit Card,Takeaway,2022-07-17
+8118454696303,Cookie,3,Digital Wallet,In-store,2022-10-15
+6352911473591,Smoothie,1,Digital Wallet,Takeaway,2022-10-16
+1101937122366,Cake,2,Digital Wallet,In-store,2022-01-07
+9397399346460,Soda,3,Credit Card,In-store,2022-03-14
+2978177528383,Soda,1,Cash,Takeaway,2022-02-01
+3672823607413,Ice Cream,1,Cash,Takeaway,2022-05-27
+2933566393904,Cookie,3,Credit Card,Takeaway,2022-12-07
+9091477945155,Tea,1,Cash,In-store,2022-08-29
+8401659962022,Milk,2,Cash,Takeaway,2022-01-08
+5420949844018,Coffee,1,Credit Card,In-store,2022-03-27
+6457100218875,Smoothie,1,Credit Card,In-store,2022-10-31
+0926238635817,Sandwich,3,Credit Card,Takeaway,2022-09-01
+7342346317620,Coffee,1,Digital Wallet,Takeaway,2022-11-11
+1626061409768,Milk,3,Credit Card,In-store,2022-09-16
+8695224160498,Soda,2,Credit Card,In-store,2022-05-15
+0212950731945,Yogurt,1,Credit Card,Takeaway,2022-03-06
+2082548540666,Soda,2,Digital Wallet,In-store,2022-12-03
+2705912182599,Water,1,Cash,Takeaway,2022-06-26
+1230033973449,Cake,3,Cash,Takeaway,2022-11-13
+5112590021695,Salad,2,Credit Card,In-store,2022-06-24
+4139596560240,Cookie,1,Digital Wallet,In-store,2022-06-29
+1574587483130,Yogurt,1,Digital Wallet,In-store,2022-05-13
+6591874420734,Cake,3,Digital Wallet,In-store,2022-05-15
+7543262829819,Cookie,2,Digital Wallet,In-store,2022-09-30
+2584231011861,Milk,2,Credit Card,Takeaway,2022-05-23
+5467455877680,Ice Cream,2,Cash,Takeaway,2022-07-19
+4033191405534,Coffee,1,Digital Wallet,In-store,2022-04-03
+1922610340101,Yogurt,1,Credit Card,Takeaway,2022-01-06
+1628376826810,Milk,3,Digital Wallet,In-store,2022-06-01
+0056165986512,Juice,1,Digital Wallet,Takeaway,2022-11-23
+8024959579013,Salad,1,Cash,In-store,2022-05-12
+2756567920364,Tea,3,Cash,In-store,2022-03-19
+3251731577898,Juice,2,Digital Wallet,Takeaway,2022-05-07
+7758373992936,Soda,1,Credit Card,Takeaway,2022-02-27
+1590826527571,Cake,1,Cash,Takeaway,2022-05-24
+0188871156320,Juice,2,Credit Card,In-store,2022-07-05
+6935469706801,Yogurt,3,Credit Card,Takeaway,2022-04-05
+3880549091038,Coffee,1,Cash,In-store,2022-12-13
+6708266500589,Ice Cream,2,Credit Card,In-store,2022-01-20
+5312027591320,Cake,2,Cash,Takeaway,2022-06-21
+1176048715127,Salad,2,Cash,Takeaway,2022-06-05
+6221376194542,Yogurt,2,Cash,Takeaway,2022-03-07
+2008253276072,Tea,3,Digital Wallet,Takeaway,2022-09-20
+1749141740534,Milk,1,Credit Card,Takeaway,2022-05-08
+7418104902374,Soda,2,Digital Wallet,Takeaway,2022-12-17
+0932519065587,Ice Cream,1,Cash,In-store,2022-02-20
+6213321188416,Soda,3,Cash,In-store,2022-07-19
+2395301387133,Juice,2,Digital Wallet,Takeaway,2022-08-26
+6292232639408,Juice,1,Credit Card,Takeaway,2022-02-24
+1879304657840,Yogurt,3,Credit Card,In-store,2022-06-07
+7780110395748,Soda,2,Cash,Takeaway,2022-03-16
+7878697732640,Cookie,2,Digital Wallet,Takeaway,2022-08-27
+7285330048684,Smoothie,1,Digital Wallet,Takeaway,2022-04-16
+0715634828073,Cake,1,Digital Wallet,In-store,2022-11-07
+4538629278518,Smoothie,1,Credit Card,In-store,2022-04-24
+8603058471291,Smoothie,3,Digital Wallet,Takeaway,2022-11-04
+9792190849156,Salad,2,Credit Card,Takeaway,2022-12-29
+7265677102171,Water,2,Credit Card,In-store,2022-03-17
+6135250396239,Coffee,1,Digital Wallet,In-store,2023-12-26
+3106687412406,Smoothie,3,Cash,In-store,2023-01-19
+9214688617059,Coffee,2,Credit Card,In-store,2023-08-05
+8039701092979,Cookie,2,Credit Card,In-store,2023-03-26
+6913227491091,Ice Cream,1,Cash,Takeaway,2023-11-25
+8948674054955,Smoothie,1,Credit Card,Takeaway,2023-11-27
+1183303792274,Ice Cream,1,Cash,Takeaway,2023-05-02
+2519400205178,Water,3,Digital Wallet,In-store,2023-09-24
+1592476742922,Milk,1,Digital Wallet,In-store,2023-09-22
+3473314966244,Juice,2,Cash,Takeaway,2023-09-20
+1980649952931,Salad,3,Cash,In-store,2023-04-25
+0048641694608,Juice,1,Credit Card,In-store,2023-06-10
+0511684943557,Soda,3,Credit Card,Takeaway,2023-02-01
+2893939940428,Water,3,Digital Wallet,Takeaway,2023-03-06
+2776079596437,Juice,1,Credit Card,In-store,2023-10-23
+8185953163780,Cookie,1,Cash,Takeaway,2023-01-19
+2909917640683,Yogurt,1,Cash,Takeaway,2023-09-24
+9481880442400,Milk,1,Digital Wallet,Takeaway,2023-02-26
+3624904562494,Yogurt,2,Cash,Takeaway,2023-03-09
+3633442240634,Cake,2,Cash,In-store,2023-08-07
+4220133370436,Sandwich,1,Digital Wallet,In-store,2023-10-04
+1639554199961,Cake,1,Digital Wallet,Takeaway,2023-04-11
+3829934607355,Coffee,1,Digital Wallet,In-store,2023-12-11
+1533272769546,Tea,2,Credit Card,Takeaway,2023-06-09
+1861649436563,Ice Cream,2,Cash,Takeaway,2023-09-14
+7184108522633,Salad,3,Credit Card,Takeaway,2023-03-02
+9281053427315,Smoothie,3,Cash,In-store,2023-06-26
+8988513250520,Salad,3,Cash,In-store,2023-01-23
+8529294170708,Smoothie,1,Digital Wallet,Takeaway,2023-08-15
+4138711289516,Cake,2,Credit Card,Takeaway,2023-12-15
+8600067573855,Coffee,1,Credit Card,Takeaway,2023-05-21
+2030977550558,Salad,3,Credit Card,In-store,2023-05-01
+8343368028418,Tea,2,Credit Card,In-store,2023-04-01
+5141795701859,Ice Cream,2,Cash,Takeaway,2023-11-07
+2387331668238,Yogurt,1,Credit Card,In-store,2023-06-03
+8021862060928,Sandwich,2,Digital Wallet,In-store,2023-12-16
+9207758078812,Cake,1,Digital Wallet,In-store,2023-02-22
+4565917056053,Tea,2,Cash,In-store,2023-08-21
+6407367569500,Cookie,1,Cash,Takeaway,2023-06-23
+0509907608314,Water,1,Digital Wallet,Takeaway,2023-08-07
+6635996682882,Coffee,1,Digital Wallet,Takeaway,2023-08-22
+6161396456988,Water,3,Cash,In-store,2023-01-23
+5232871195799,Smoothie,2,Digital Wallet,Takeaway,2023-03-13
+5716610290902,Ice Cream,3,Credit Card,In-store,2023-10-13
+7569731707259,Coffee,2,Credit Card,In-store,2023-09-19
+2887494233392,Cookie,1,Credit Card,In-store,2023-04-18
+4588538744901,Cake,2,Credit Card,In-store,2023-02-12
+5042402457438,Sandwich,2,Digital Wallet,Takeaway,2023-04-07
+2425117689555,Ice Cream,1,Cash,In-store,2023-08-21
+5479266116582,Sandwich,1,Credit Card,Takeaway,2023-07-06
+7378917347925,Yogurt,2,Digital Wallet,Takeaway,2023-03-18
+7612890151965,Sandwich,1,Credit Card,Takeaway,2023-05-17
+6888128009914,Yogurt,1,Digital Wallet,Takeaway,2023-03-28
+5311638210668,Tea,3,Digital Wallet,Takeaway,2023-02-24
+3419312022162,Coffee,2,Cash,Takeaway,2023-08-25
+4733444060977,Yogurt,3,Credit Card,In-store,2023-01-28
+8621551946863,Juice,1,Cash,In-store,2023-08-02
+6201447290298,Coffee,1,Credit Card,Takeaway,2023-04-03
+5689613417563,Coffee,2,Digital Wallet,In-store,2023-09-05
+3580969938578,Cookie,1,Credit Card,In-store,2023-11-13
+4056202794861,Coffee,2,Cash,Takeaway,2023-11-13
+2280432078602,Cake,2,Credit Card,Takeaway,2023-07-23
+2797885169172,Smoothie,3,Cash,Takeaway,2023-02-01
+4111679814174,Juice,2,Credit Card,In-store,2023-09-04
+8486225566064,Tea,1,Cash,Takeaway,2023-05-27
+2526542537746,Yogurt,2,Credit Card,Takeaway,2023-01-04
+1345452468541,Juice,1,Credit Card,In-store,2023-01-07
+6691519095690,Sandwich,1,Digital Wallet,Takeaway,2023-08-18
+7615232249122,Juice,2,Cash,In-store,2023-04-10
+8046745899617,Soda,2,Credit Card,Takeaway,2023-08-29
+6664324935383,Coffee,3,Cash,In-store,2023-11-29
+3044273823420,Juice,3,Cash,Takeaway,2023-06-12
+2652883552862,Cake,3,Digital Wallet,Takeaway,2023-03-24
+6499980467004,Smoothie,2,Digital Wallet,Takeaway,2023-05-12
+6948937474188,Juice,3,Cash,In-store,2023-06-12
+7425087283673,Juice,1,Digital Wallet,In-store,2023-07-01
+1629663072378,Coffee,1,Cash,Takeaway,2023-11-28
+7183569502857,Water,2,Cash,Takeaway,2023-10-09
+7929390158678,Juice,3,Digital Wallet,In-store,2023-07-07
+5264935921853,Cookie,3,Credit Card,In-store,2023-08-02
+7646939306757,Cake,3,Credit Card,Takeaway,2023-03-30
+5188247233681,Yogurt,1,Digital Wallet,Takeaway,2023-03-09
+4999602066971,Tea,1,Cash,Takeaway,2023-11-08
+6099911108701,Coffee,3,Cash,In-store,2023-01-21
+3032302268786,Coffee,1,Cash,In-store,2023-02-17
+4305749394929,Smoothie,1,Digital Wallet,Takeaway,2023-12-11
+2582162363189,Tea,3,Cash,Takeaway,2023-07-01
+1892733035485,Ice Cream,1,Digital Wallet,In-store,2023-03-18
+2273062961284,Tea,1,Digital Wallet,Takeaway,2023-12-02
+2425339204000,Milk,3,Credit Card,Takeaway,2023-09-07
+7030414531268,Cake,1,Cash,In-store,2023-05-22
+5003326249042,Sandwich,1,Digital Wallet,Takeaway,2023-03-14
+3594205924119,Cake,2,Digital Wallet,In-store,2023-07-13
+7579197623444,Soda,3,Credit Card,In-store,2023-03-30
+6258935580133,Juice,1,Digital Wallet,Takeaway,2023-08-29
+1354940110275,Coffee,3,Credit Card,Takeaway,2023-12-13
+3303499272055,Soda,3,Digital Wallet,In-store,2023-08-18
+5768544297199,Coffee,2,Cash,Takeaway,2023-04-16
+7859407301813,Cookie,2,Digital Wallet,In-store,2023-06-26
+1230262038919,Water,3,Cash,In-store,2023-04-01
+1716785075124,Smoothie,3,Digital Wallet,In-store,2024-02-14
+5033352350627,Soda,1,Digital Wallet,In-store,2024-07-01
+7923447212443,Cake,3,Digital Wallet,In-store,2024-07-19
+6327988279414,Cake,1,Credit Card,Takeaway,2024-02-05
+3304921525459,Ice Cream,1,Digital Wallet,In-store,2024-12-28
+3279740484549,Milk,1,Cash,In-store,2024-09-27
+7092678500909,Smoothie,3,Cash,In-store,2024-03-03
+6531520297426,Milk,3,Digital Wallet,In-store,2024-12-05
+1282600540158,Water,3,Cash,Takeaway,2024-06-26
+2441945637551,Cookie,3,Credit Card,In-store,2024-12-28
+7325399464619,Cake,1,Cash,Takeaway,2024-09-28
+1864978680096,Cake,1,Credit Card,In-store,2024-05-11
+5224366925851,Sandwich,2,Cash,Takeaway,2024-07-07
+7241823241314,Salad,2,Credit Card,In-store,2024-06-15
+2402143132378,Yogurt,1,Credit Card,In-store,2024-02-17
+3869196585602,Yogurt,1,Credit Card,Takeaway,2024-05-18
+4692710682704,Sandwich,1,Credit Card,In-store,2024-03-14
+5995076444429,Coffee,3,Digital Wallet,Takeaway,2024-01-04
+7460294998798,Cookie,1,Credit Card,Takeaway,2024-03-03
+1472158897143,Cookie,3,Credit Card,In-store,2024-08-03
+3846414777841,Salad,1,Credit Card,In-store,2024-03-16
+8363961107211,Sandwich,1,Cash,Takeaway,2024-06-30
+9163254319081,Yogurt,3,Cash,In-store,2024-05-01
+3440838666080,Smoothie,3,Credit Card,Takeaway,2024-09-07
+8965922128664,Cookie,3,Digital Wallet,In-store,2024-02-21
+3617480633917,Soda,3,Credit Card,In-store,2024-07-09
+3785069983354,Cookie,1,Cash,Takeaway,2024-02-01
+9973943957407,Coffee,2,Digital Wallet,Takeaway,2024-03-21
+1739578172916,Cookie,3,Digital Wallet,Takeaway,2024-03-07
+3586971084074,Smoothie,1,Credit Card,In-store,2024-11-30
+8437735805051,Ice Cream,3,Cash,In-store,2024-05-30
+8686411065153,Smoothie,1,Cash,Takeaway,2024-09-30
+7603023283080,Juice,2,Digital Wallet,In-store,2024-06-20
+0037341262316,Yogurt,2,Digital Wallet,In-store,2024-07-06
+1627623601996,Yogurt,1,Credit Card,Takeaway,2024-11-02
+5235435543661,Soda,2,Cash,Takeaway,2024-06-10
+1187700633246,Ice Cream,1,Credit Card,Takeaway,2024-10-18
+7892540705711,Yogurt,3,Digital Wallet,Takeaway,2024-10-24
+4692185402166,Water,3,Cash,Takeaway,2024-12-15
+3205344201930,Cake,1,Credit Card,Takeaway,2024-01-04
+6090258654517,Tea,3,Credit Card,Takeaway,2024-08-26
+6787739968118,Soda,1,Digital Wallet,In-store,2024-04-01
+8560372824502,Sandwich,1,Cash,In-store,2024-05-02
+7418423945281,Yogurt,3,Credit Card,In-store,2024-03-02
+2709219695127,Tea,3,Cash,Takeaway,2024-10-22
+2460758957380,Smoothie,2,Credit Card,Takeaway,2024-01-12
+2299784399082,Smoothie,2,Cash,Takeaway,2024-07-14
+6207766464280,Juice,2,Credit Card,Takeaway,2024-11-23
+1299390956298,Ice Cream,2,Credit Card,In-store,2024-11-20
+2154011490973,Milk,3,Digital Wallet,In-store,2024-12-13
+2640487787698,Yogurt,3,Cash,Takeaway,2024-11-27
+1833503775958,Water,1,Cash,In-store,2024-10-26
+5129400820584,Salad,1,Credit Card,Takeaway,2024-02-06
+3128633170093,Salad,3,Cash,Takeaway,2024-12-24
+0844706090336,Juice,3,Credit Card,In-store,2024-10-16
+2855719075843,Salad,1,Cash,Takeaway,2024-05-01
+4703697138211,Water,1,Digital Wallet,In-store,2024-06-08
+5284119684831,Sandwich,1,Credit Card,Takeaway,2024-10-22
+4637480812197,Tea,2,Digital Wallet,Takeaway,2024-07-30
+9358177267308,Sandwich,2,Credit Card,In-store,2024-06-23
+1270973253898,Salad,2,Credit Card,Takeaway,2024-10-20
+9403981618881,Tea,2,Credit Card,Takeaway,2024-07-12
+4354176173270,Sandwich,1,Credit Card,Takeaway,2024-09-17
+2763989575454,Milk,1,Credit Card,Takeaway,2024-01-12
+2775400058620,Soda,1,Cash,Takeaway,2024-01-23
+8073553806773,Cake,1,Credit Card,Takeaway,2024-10-25
+4866011507947,Ice Cream,1,Digital Wallet,In-store,2024-03-23
+2340230804909,Coffee,2,Cash,In-store,2024-04-21
+0340772789124,Yogurt,2,Credit Card,In-store,2024-09-09
+4161287666283,Cake,3,Digital Wallet,In-store,2024-06-03
+3005285489707,Sandwich,2,Cash,Takeaway,2024-10-15
+0066009335031,Tea,1,Digital Wallet,In-store,2024-09-21
+7385759479813,Salad,1,Cash,Takeaway,2024-01-15
+5390823371865,Cookie,1,Cash,In-store,2024-12-09
+2241437471997,Ice Cream,1,Credit Card,Takeaway,2024-06-22
+2613141609407,Yogurt,1,Digital Wallet,In-store,2024-12-03
+2245581112393,Cake,3,Credit Card,Takeaway,2024-08-23
+9796599916921,Smoothie,3,Cash,Takeaway,2024-10-02
+1593899616777,Soda,3,Digital Wallet,In-store,2024-02-07
+7806356536575,Ice Cream,1,Credit Card,Takeaway,2024-01-24
+2974908860654,Ice Cream,2,Credit Card,Takeaway,2024-06-10
+9267240609344,Tea,3,Digital Wallet,In-store,2024-11-15
+3070052690167,Juice,3,Credit Card,In-store,2024-11-07
+3339637483458,Juice,3,Digital Wallet,Takeaway,2024-05-12
+3807603081651,Cookie,2,Digital Wallet,In-store,2024-06-17
+3365020127647,Juice,3,Cash,In-store,2024-08-18
+5703915802398,Yogurt,2,Credit Card,In-store,2024-01-27
+1348908198801,Juice,1,Cash,Takeaway,2024-09-18
+8659721923642,Tea,1,Cash,In-store,2024-10-30
+5817800203747,Sandwich,3,Cash,In-store,2024-07-25
+4017449634815,Juice,3,Cash,Takeaway,2024-06-16
+1080827859189,Soda,2,Digital Wallet,In-store,2024-05-25
+5843349813109,Cake,1,Credit Card,Takeaway,2024-03-07
+2262193284164,Water,3,Digital Wallet,In-store,2024-08-24
+7366838783007,Tea,2,Digital Wallet,Takeaway,2024-12-04
+7042355374156,Cake,2,Cash,In-store,2024-07-11
+9271503241189,Soda,1,Cash,In-store,2024-01-20
+8042510950101,Soda,3,Cash,Takeaway,2024-10-22
+5420870011695,Ice Cream,2,Cash,In-store,2024-01-25
+3010870270998,Cake,3,Cash,Takeaway,2024-09-25
+0306392597020,Tea,1,Credit Card,In-store,2025-01-14
+6725463582644,Cake,3,Credit Card,In-store,2025-07-04
+6490116619076,Cookie,1,Cash,Takeaway,2025-11-13
+2476713968810,Water,1,Cash,In-store,2025-10-14
+3756507729438,Sandwich,3,Digital Wallet,Takeaway,2025-01-19
+7523668913695,Salad,2,Cash,In-store,2025-11-26
+7237089452243,Sandwich,2,Credit Card,Takeaway,2025-08-15
+2249015053054,Cookie,3,Cash,In-store,2025-03-15
+1662284136494,Sandwich,3,Cash,Takeaway,2025-07-27
+1337457305686,Coffee,1,Cash,Takeaway,2025-10-19
+4378663415742,Milk,3,Credit Card,Takeaway,2025-03-10
+5684677316579,Milk,1,Credit Card,In-store,2025-01-20
+4923037112996,Yogurt,1,Cash,In-store,2025-08-01
+8015438195565,Cookie,1,Credit Card,In-store,2025-10-30
+6118187078874,Coffee,3,Credit Card,Takeaway,2025-06-29
+3938732578542,Ice Cream,2,Credit Card,In-store,2025-03-06
+7026608322026,Water,3,Cash,Takeaway,2025-11-18
+7350259411304,Tea,1,Credit Card,In-store,2025-10-08
+1839756028360,Juice,3,Digital Wallet,Takeaway,2025-01-19
+0785260068839,Cake,2,Credit Card,Takeaway,2025-06-02
+3391851435873,Soda,1,Cash,Takeaway,2025-09-19
+3222442017706,Yogurt,3,Cash,In-store,2025-01-18
+1444373493011,Salad,1,Cash,In-store,2025-11-08
+1978249943688,Milk,2,Digital Wallet,Takeaway,2025-12-27
+9273075966590,Smoothie,1,Credit Card,Takeaway,2025-05-20
+9915984732179,Cake,1,Cash,Takeaway,2025-03-23
+6229753508999,Ice Cream,1,Cash,Takeaway,2025-11-10
+8994324920774,Sandwich,2,Digital Wallet,In-store,2025-05-25
+3800825299538,Water,3,Cash,Takeaway,2025-04-21
+3486559760843,Juice,1,Credit Card,Takeaway,2025-08-16
+5880742088192,Milk,3,Cash,In-store,2025-12-03
+4607245837901,Juice,2,Digital Wallet,Takeaway,2025-07-09
+6671425440838,Tea,2,Cash,Takeaway,2025-12-27
+3896300739729,Smoothie,3,Credit Card,Takeaway,2025-12-11
+4870649304311,Milk,3,Cash,Takeaway,2025-11-21
+9324451888941,Salad,3,Digital Wallet,Takeaway,2025-05-28
+6790083288412,Salad,2,Cash,Takeaway,2025-04-11
+8649672514884,Salad,1,Cash,Takeaway,2025-06-18
+9930330184457,Tea,3,Credit Card,Takeaway,2025-02-18
+7978637558863,Salad,2,Cash,Takeaway,2025-09-06
+3198711639521,Milk,3,Cash,In-store,2025-04-24
+3258352420442,Tea,2,Cash,Takeaway,2025-03-26
+2782656553878,Juice,3,Cash,In-store,2025-02-16
+8813737972333,Coffee,3,Credit Card,Takeaway,2025-04-07
+3724876158913,Milk,2,Credit Card,Takeaway,2025-04-30
+6606591144808,Tea,3,Digital Wallet,In-store,2025-01-09
+0812051721700,Salad,1,Credit Card,In-store,2025-11-18
+5606846674587,Milk,1,Cash,In-store,2025-10-26
+2432443691671,Cookie,2,Credit Card,Takeaway,2025-10-21
+8973072105688,Juice,1,Credit Card,Takeaway,2025-11-07
+8028114736945,Tea,3,Credit Card,In-store,2025-08-08
+2934932703501,Soda,1,Credit Card,In-store,2025-02-16
+0219717500165,Milk,3,Digital Wallet,In-store,2025-07-18
+2513085390587,Smoothie,2,Credit Card,Takeaway,2025-07-18
+6484836111842,Sandwich,3,Credit Card,In-store,2025-02-19
+7306577819742,Tea,3,Cash,In-store,2025-12-05
+1181052220628,Cake,2,Credit Card,Takeaway,2025-01-25
+6985061754656,Yogurt,3,Credit Card,Takeaway,2025-08-13
+8474664169397,Sandwich,1,Digital Wallet,Takeaway,2025-07-18
+2227566879118,Cookie,3,Cash,In-store,2025-11-27
+9038640688235,Tea,3,Digital Wallet,Takeaway,2025-09-11
+9735685814697,Tea,3,Credit Card,Takeaway,2025-08-13
+5932316486290,Smoothie,2,Cash,Takeaway,2025-06-26
+4431668004103,Coffee,2,Credit Card,In-store,2025-09-11
+8059905044529,Salad,3,Cash,In-store,2025-07-26
+6222964538526,Juice,1,Credit Card,In-store,2025-06-14
+5991830053784,Yogurt,3,Digital Wallet,In-store,2025-04-19
+8866349375719,Juice,2,Cash,In-store,2025-07-31
+6037020847647,Coffee,1,Credit Card,Takeaway,2025-11-03
+1635503823765,Yogurt,1,Digital Wallet,In-store,2025-04-29
+8651029409989,Ice Cream,3,Credit Card,In-store,2025-04-18
+8874013854958,Sandwich,3,Digital Wallet,In-store,2025-07-31
+1161164444822,Milk,1,Digital Wallet,In-store,2025-10-10
+5390797040620,Smoothie,1,Digital Wallet,In-store,2025-05-17
+3568653467665,Water,2,Cash,Takeaway,2025-08-27
+1156556795521,Milk,3,Digital Wallet,In-store,2025-01-15
+4752300739680,Coffee,1,Digital Wallet,Takeaway,2025-10-14
+9299516457434,Cake,3,Cash,Takeaway,2025-10-05
+0278930559251,Yogurt,1,Credit Card,Takeaway,2025-03-07
+2950785801515,Cake,1,Cash,Takeaway,2025-05-06
+2598096508671,Soda,1,Digital Wallet,In-store,2025-10-29
+6591566237411,Salad,2,Credit Card,Takeaway,2025-12-17
+5409666144977,Salad,2,Cash,Takeaway,2025-08-08
+8298394082920,Milk,1,Cash,Takeaway,2025-08-15
+8556616963908,Salad,2,Digital Wallet,Takeaway,2025-04-13
+3391607689215,Soda,1,Credit Card,In-store,2025-07-29
+6732693029856,Tea,3,Digital Wallet,In-store,2025-04-07
+2144032054018,Yogurt,3,Digital Wallet,In-store,2025-07-16
+8038472511467,Ice Cream,2,Digital Wallet,Takeaway,2025-06-12
+7566359263822,Ice Cream,2,Credit Card,Takeaway,2025-09-23
+4694378113330,Tea,1,Digital Wallet,In-store,2025-03-02
+7175797825433,Juice,3,Digital Wallet,Takeaway,2025-01-27
+5205580032617,Cake,3,Digital Wallet,Takeaway,2025-10-02
+1974794573066,Coffee,2,Credit Card,Takeaway,2025-06-07
+5904113636079,Milk,1,Cash,In-store,2025-11-15
+9064513979933,Yogurt,3,Cash,In-store,2025-07-30
+0020092161403,Cake,1,Cash,Takeaway,2025-05-02
+3796216231853,Cookie,3,Credit Card,In-store,2025-03-18
+0688818170131,Salad,1,Digital Wallet,Takeaway,2025-04-10
+5694072868696,Soda,2,Digital Wallet,In-store,2025-12-03
